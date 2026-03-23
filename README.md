@@ -1,3 +1,5 @@
+![GitHub stars](https://img.shields.io/github/stars/astraquantlabs/privacy-toolkit)
+
 # 🔐 Privacy Toolkit
 
 A beginner-friendly toolkit to improve your online privacy using VPNs, DNS, and secure apps.
